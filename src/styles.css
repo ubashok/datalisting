@@ -1,0 +1,22 @@
+img {
+    object-fit: contain;
+    display: flex;
+    max-width: 40px;
+  }
+  td {
+    text-align: left;
+    padding: 5px 20px;
+  }
+  td:nth-child(2) {
+    width: 40px;
+    height: 40px;
+  }
+  .w-full{
+    width: 780px;
+  }
+  table{
+    width: 780px;
+  }
+.mx-auto{
+    margin:0 auto
+}  
